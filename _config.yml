@@ -1,0 +1,24 @@
+title: Fabric w/ Azure Databricks
+description: This lab showcases Modern Analytics with Microsoft Fabric and Azure Databricks, featuring a cost-effective, performance-optimized, and cloud-native Analytics solution pattern. 
+theme: just-the-docs
+
+aux_links:
+  "TechBoost Fabric wth Databricks for Data Analytics": 
+    - "https://github.com/microsoft/TechBoost-Fabric-with-Databricks-for-Data-Analytics"
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note 
+    color: purple
+  warning:
+    title: Warning
+    color: red
