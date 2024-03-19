@@ -9,6 +9,8 @@ nav_order: 1
 
 **The estimated time to complete this lab is six hours.**
 
+## Overview
+
 This lab showcases Microsoft Fabric and Azure Databricks, featuring a performance-optimized, and cloud-native analytics solution pattern. This architecture unifies a customer’s data estate to accelerate data value creation.  
 
 ![ArchitectureDiagramMFADBNew.png](docs/media/instructions240153/ArchitectureDiagramMFADBNew.png)
