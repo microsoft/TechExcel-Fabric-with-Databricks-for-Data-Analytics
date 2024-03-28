@@ -41,7 +41,7 @@ Here are the Microsoft Fabric workloads showcased in this solution along with Az
 
 ## Prerequisite files
 
-[Download the Bronze to Silver and Silver to Gold notebooks](https://github.com/microsoft/TechExcel-Fabric-with-Databricks-for-Data-Analytics/blob/main/docs/resources/Notebooks.zip) to your local machine. You will need to import them into your Azure Databricks environment during the lab.
+[Download the Bronze to Silver and Silver to Gold notebooks](https://github.com/microsoft/TechExcel-Fabric-with-Databricks-for-Data-Analytics/blob/main/docs/resources/BronzeToSilver.zip) to your local machine. You will need to import them into your Azure Databricks environment during the lab.
 
 ## Exercises
 
