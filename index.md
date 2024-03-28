@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-# Microsoft Fabric and Azure Databricks lab
+# TechExcel: Microsoft Fabric with Azure Databricks for Data Analytics (lvl 300 / CSU) lab
 
 
 **The estimated time to complete this lab is six hours.**
