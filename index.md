@@ -47,8 +47,9 @@ Here are the Microsoft Fabric workloads showcased in this solution along with Az
 
 This lab has exercises on:
 
-- Setting up the environment
-- Creating a Fabric workspace and data pipeline
+- Provision and configure resources
+- Create a Fabric workspace and data pipeline
+- Expore Copilot capabilites
 - Establishing connectivity between Azure Databricks and Azure Data Lake Storage (ADLS) Gen 2
 - Implementing the Medallion Architecture using Azure Databricks (Bronze, Silver and Gold layers)
 - Serving data with Microsoft Fabric
