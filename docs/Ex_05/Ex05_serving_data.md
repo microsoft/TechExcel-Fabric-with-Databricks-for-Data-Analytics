@@ -1,7 +1,7 @@
 ---
 title: 'Exercise 5: Serving data with Microsoft Fabric'
 layout: default
-nav_order: 6
+nav_order: 7
 has_children: true
 ---
 
