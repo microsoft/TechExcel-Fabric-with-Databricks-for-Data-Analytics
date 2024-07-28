@@ -1,13 +1,13 @@
 ---
 title: 'Exercise 3: Establish connectivity between Azure Databricks and Azure Data Lake Storage (ADLS) Gen 2'
 layout: default
-nav_order: 4
+nav_order: 5
 has_children: true
 ---
 
 # Exercise 3: Establish connectivity between Azure Databricks and Azure Data Lake Storage (ADLS) Gen 2
 
-By ensuring seamless data flow between Databricks and ADLS Gen 2, Contoso aims to accelerate their analytics and machine learning projects, unlocking new possibilities for innovation and efficiency. 
+Now that you have explored some capabilities of Copilot in Fabrics, lete's get back to the main lab.By ensuring seamless data flow between Databricks and ADLS Gen 2, Contoso aims to accelerate their analytics and machine learning projects, unlocking new possibilities for innovation and efficiency. 
 
 To achieve this, we’ll take the following steps: 
 
