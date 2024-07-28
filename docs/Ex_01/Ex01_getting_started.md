@@ -1,5 +1,5 @@
 ---
-title: 'Exercise 1: Getting started - environment setup'
+title: 'Exercise 1: Create a Fabric workspace and data pipeline'
 layout: default
 nav_order: 3
 has_children: true
