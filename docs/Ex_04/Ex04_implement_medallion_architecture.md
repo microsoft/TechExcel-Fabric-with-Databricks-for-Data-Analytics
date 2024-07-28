@@ -1,7 +1,7 @@
 ---
 title: 'Exercise 4: Implement the Medallion Architecture using Azure Databricks (Bronze, Silver and Gold layers)'
 layout: default
-nav_order: 5
+nav_order: 6
 has_children: true
 ---
 
