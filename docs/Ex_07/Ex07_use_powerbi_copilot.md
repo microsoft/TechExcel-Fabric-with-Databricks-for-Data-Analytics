@@ -1,7 +1,7 @@
 ---
 title: 'Exercise 7: Use PowerBI Copilot'
 layout: default
-nav_order: 8
+nav_order: 9
 has_children: true
 ---
 
