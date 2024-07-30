@@ -14,7 +14,7 @@ Microsoft has integrated Copilot and other generative AI features into Fabric to
 
 In this exercise, you will explore Copilot Data Factory capabilities. 
 
-This lab does not include You will explore the Power BI Copilot in a later excercise in this lab.
+You will explore the Power BI Copilot in a later excercise in this lab.
 
 >{: .warning }
 >This exercise allows you to explore AI capabilities in Fabric. Your results may differ from the results that our testing team obtained. This exercise is separate from the main lab content. </br></br>You will create a separate workspace for this exercise to keep these exploratory objects separate from the main lab content.
