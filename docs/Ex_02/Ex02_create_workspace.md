@@ -1,11 +1,11 @@
 ---
-title: 'Exercise 2: Explore Copilot capabilities'
+title: 'Exercise 03: Explore Copilot capabilities'
 layout: default
 nav_order: 4
 has_children: true
 ---
 
-# Exercise 2: Explore Copilot capabilities
+# Exercise 03: Explore Copilot capabilities
 
 Microsoft has integrated Copilot and other generative AI features into Fabric to introduce new ways for yo to transform and analyze data, generate insights, and create visualizations and reports. You must enable Copilot before you can use it. Copilot in Fabric is not available in all regions. Microsoft includes the following Copilot integrations:
 
