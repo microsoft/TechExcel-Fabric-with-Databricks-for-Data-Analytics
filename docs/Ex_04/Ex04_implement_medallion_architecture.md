@@ -1,11 +1,11 @@
 ---
-title: 'Exercise 4: Implement the Medallion Architecture using Azure Databricks (Bronze, Silver and Gold layers)'
+title: 'Exercise 05: Implement the Medallion Architecture using Azure Databricks (Bronze, Silver and Gold layers)'
 layout: default
 nav_order: 6
 has_children: true
 ---
 
-# Exercise 4: Implement the Medallion Architecture using Azure Databricks (Bronze, Silver and Gold layers)
+# Exercise 05: Implement the Medallion Architecture using Azure Databricks (Bronze, Silver and Gold layers)
 
 This exercise revolves around implementing the Medallion Architecture utilizing Azure Databricks, with a particular emphasis on its Bronze, Silver, and Gold layers. 
 
