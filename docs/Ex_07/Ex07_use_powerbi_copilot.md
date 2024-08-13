@@ -1,11 +1,11 @@
 ---
-title: 'Exercise 7: Use PowerBI Copilot'
+title: 'Exercise 08: Use PowerBI Copilot'
 layout: default
 nav_order: 9
 has_children: true
 ---
 
-# Exercise 7: Use PowerBI Copilot
+# Exercise 08: Use PowerBI Copilot
 
 Introducing Microsoft Fabric Copilot, your ultimate co-pilot in code creation. With advanced AI assistance, Fabric Copilot revolutionizes the way developers work, providing insightful suggestions and code snippets to streamline your workflow. Say goodbye to tedious debugging and hello to efficient coding with Microsoft Fabric Copilot by your side. Experience the future of programming today.
 
