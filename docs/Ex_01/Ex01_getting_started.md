@@ -7,6 +7,11 @@ has_children: true
 
 # Exercise 02: Create a Fabric workspace and data pipeline
 
+{: .note }
+> Microsoft Fabric is rapidly evolving. Microsoft is updating the user interface from persona-based options to job types. In particular, there have been many recent changes to navigation and steps required to create resources.
+>
+> We review lab instructions on a regular basis and update the instructions as necessary. Please contact your coach if you're having difficulties completing any steps in this lab.
+
 Creating a Fabric workspace and data pipeline is the foundational step for consolidating Contoso's and Litware Inc.'s data, enabling unified data management and streamlined analytics within the Azure ecosystem. This infrastructure lays the groundwork for efficient data ingestion, storage, and processing. It helps the organization's address data silos and fosters a cohesive data environment.
 
 In this exercise, you will continue preparinge the lab environment by performing the following tasks: 
